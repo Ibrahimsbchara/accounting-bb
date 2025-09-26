@@ -1,0 +1,5 @@
+{
+  "name": "Daily Cash Flow",
+  "description": "A web application to manage and track daily cash flow, including inflows, outflows, bank facilities, and different views for actual, budgeted, and variance analysis.",
+  "requestFramePermissions": []
+}
